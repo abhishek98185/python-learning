@@ -1,0 +1,22 @@
+1. Basic graph
+    Line Graph - Shows trends or changes over time
+    Bar Graph - Compares categories
+    Histogram - Shows frequency distribution
+    Pie Chart - Displays proportion of a whole
+    Scatter Plot - Shows correlation between two variables
+
+2. statistical Graph
+    Box Plot - Shows data spread, median & outliers
+    Voilen Plot - Similar to boxplot but shows data density
+    Error Bar Plot - Displays uncertainty or variability
+    Density Plot / KDE - Smooth curve showing data distribution
+
+3. Comparative Graphs
+    Multiple Line Graph - Compare trends of multiple datasets
+    Grouped Bar Graph - Compare categories across groups
+    Stacked Bar Graph - Show part-to-whole across categories
+    Bubble Chart - Scatter plot with variable-sized points
+
+4. Advanced Visualizations
+    Heatmap  - Shows values in a matrix (e.g., correlations)
+    Radar / Spider Chart - Compare multiple metrics for an item

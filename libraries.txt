@@ -1,0 +1,36 @@
+Important libraries of Python
+
+1. Data Handling & Analysis
+
+    NumPy - used for numerical operations, arrays, and mathematical functions
+    Pandas - Used for data manipulation and ananlysis
+
+2. Data Visualization
+
+    Matplotlib - the most popular plotting library - used for 2D graphs like line, bar, pie, etc
+    Seaborn - Built on top of Matplotlib - used for attractive and informative statistical plots 
+    Plotly - Used for interactive Visualization(good for dashboard)
+
+3. Data Collection & Cleaning
+
+    CSV - used to read and write .csv files.
+    Requests/ BeautifulSoup - used for Web Scraping getting data from websites
+
+4. Machine Learning 
+
+    Scikit-learn - For ML models (classifications , regression, etc)
+    TensorFlow/PyTorch - for deep learning Tasks
+
+5. More:-
+
+    WordCloud - Used to create word cloud Visualization
+    NetworkX - Used for network/graph Visualization
+    Statsmodels - Used for statistical analysis and plotting
+
+
+
+
+
+A. NumPy
+    used for numerical computation,scientific computing, and data analytics
+    
