@@ -1,0 +1,13 @@
+string
+
+
+
+'abhishek' "abhishek"  both same
+
+'''abhishek 
+singh'''  multi line string
+
+
+//string slicing
+
+[start,end,step]

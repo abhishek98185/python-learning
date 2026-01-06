@@ -1,0 +1,41 @@
+integer - -infinity to infinity
+Floating number - decimal numbers
+string -word or sentence
+bool - True , False
+None
+
+
+
+
+
+
+
+
+
+
+
+//rule for identifier
+
+
+1. can only use _ , alphabet , number
+2. can not start with a number
+3. can not be a keyword
+4. no space allowed
+
+
+
+//operator 
+1.airthmetic operator          + - / *
+2.assignment operator          = += -=
+3.comparision operator         == >= <= > <
+4.logical operator             and not nor
+
+
+
+
+
+//type function
+type(31)
+
+//type casting
+str(31)
